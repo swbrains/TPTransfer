@@ -1,5 +1,5 @@
 # TPTransfer
-Tool to transfer (export/import) configuration files for the TextPad editor
+Tool to transfer (export/import) configuration files for the TextPad editor (Windows).
 
 This is a Windows application I wrote for transferring the configuration files for the TextPad editor from one PC to another.
 
